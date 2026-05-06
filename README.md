@@ -5,7 +5,7 @@ This is an intermediate course on the implications of intelligent technologies, 
 
 Basically, it is the practical implementation of AI technologies—such as machine learning, natural language processing (NLP), and computer vision—to solve complex real-world problems and automate decision-making processes. In academic and professional settings, this involves a transition from theoretical algorithms to functional systems that manage data and generate insights.
 
-### Core Components of AI Applications
+## Core Components of AI Applications
 The success of an AI application is typically built on three foundational pillars: 
 
 ## 1. Data Engineering and Preparation
