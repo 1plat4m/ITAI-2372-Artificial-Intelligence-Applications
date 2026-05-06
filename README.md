@@ -11,8 +11,11 @@ The success of an AI application is typically built on three foundational pillar
 ## 1. Data Engineering and Preparation
 Before an application can "learn," the data must be meticulously prepared.
 
-### Data Cleaning: Identifying and handling missing values through techniques like median imputation to maintain dataset integrity.
-Feature Engineering: Converting raw data into a format models can understand, such as using One-Hot Encoding to transform text categories into numerical binary vectors.
+### Data Cleaning: 
+Identifying and handling missing values through techniques like median imputation to maintain dataset integrity.
+
+### Feature Engineering: 
+Converting raw data into a format models can understand, such as using One-Hot Encoding to transform text categories into numerical binary vectors.
 
 ### Scaling: 
 Normalizing numerical ranges (e.g., using StandardScaler) so that features with larger values do not disproportionately bias the model's logic.
