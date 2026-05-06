@@ -1,6 +1,6 @@
 
 
-### ITAI-2372-Artificial Intelligence Applications
+## ITAI-2372-Artificial Intelligence Applications
 This is an intermediate course on the implications of intelligent technologies, A.I., and their impact on society and culture. It also investigate Blockchain, essentially the A.I. of Trust for Business and industry, comprehend why philosophy is essential to understanding A.I., and the course focus will be on the New Moon to Mars National Initiative and the need for talent in areas of Artificial Intelligence. 
 
 Basically, itr is the practical implementation of AI technologies—such as machine learning, natural language processing (NLP), and computer vision—to solve complex real-world problems and automate decision-making processes. In academic and professional settings, this involves a transition from theoretical algorithms to functional systems that manage data and generate insights.
