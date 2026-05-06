@@ -1,2 +1,2 @@
-ITAI-2372-Artificial Intelligence Applications
+<head>ITAI-2372-Artificial Intelligence Applications</head>
 This is an intermediate course on the implications of intelligent technologies, A.I., and their impact on society and culture. This course will allow students to investigate Blockchain, essentially the A.I. of Trust for Business and industry, comprehend why philosophy is essential to understanding A.I., and the course focus will be on the New Moon to Mars National Initiative and the need for talent in areas of Artificial Intelligence.
