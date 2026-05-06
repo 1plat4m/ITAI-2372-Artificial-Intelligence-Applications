@@ -5,16 +5,16 @@ This is an intermediate course on the implications of intelligent technologies, 
 
 Basically, itr is the practical implementation of AI technologies—such as machine learning, natural language processing (NLP), and computer vision—to solve complex real-world problems and automate decision-making processes. In academic and professional settings, this involves a transition from theoretical algorithms to functional systems that manage data and generate insights.
 
-## Core Components of AI Applications
+### Core Components of AI Applications
 The success of an AI application is typically built on three foundational pillars: 
 
-### 1. Data Engineering and Preparation
+## 1. Data Engineering and Preparation
 Before an application can "learn," the data must be meticulously prepared.
 
-## Data Cleaning: Identifying and handling missing values through techniques like median imputation to maintain dataset integrity.
+### Data Cleaning: Identifying and handling missing values through techniques like median imputation to maintain dataset integrity.
 Feature Engineering: Converting raw data into a format models can understand, such as using One-Hot Encoding to transform text categories into numerical binary vectors.
 
-## Scaling: 
+### Scaling: 
 Normalizing numerical ranges (e.g., using StandardScaler) so that features with larger values do not disproportionately bias the model's logic.
 
 ### 2. Supervised Learning Models
@@ -26,7 +26,7 @@ These are used to predict continuous numerical values. For example, predicting t
 ## Classification Applications: 
 These assign data into discrete categories. Common examples include predicting survival outcomes (Survived vs. Not Survived) or identifying if an email is spam.  
 
-### 3. Rigorous Evaluation
+## 3. Rigorous Evaluation
 Functional AI applications require more than just a high accuracy score to be considered reliable.  
 
 ## Confusion Matrices: 
