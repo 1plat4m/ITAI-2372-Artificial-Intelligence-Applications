@@ -20,20 +20,20 @@ Converting raw data into a format models can understand, such as using One-Hot E
 ### Scaling: 
 Normalizing numerical ranges (e.g., using StandardScaler) so that features with larger values do not disproportionately bias the model's logic.
 
-### 2. Supervised Learning Models
+## 2. Supervised Learning Models
 Applications are categorized by the type of output they are designed to produce:  
 
-## Regression Applications: 
+### Regression Applications: 
 These are used to predict continuous numerical values. For example, predicting the "Fare" of a passenger or the price of a real estate asset.  
 
-## Classification Applications: 
+### Classification Applications: 
 These assign data into discrete categories. Common examples include predicting survival outcomes (Survived vs. Not Survived) or identifying if an email is spam.  
 
 ## 3. Rigorous Evaluation
 Functional AI applications require more than just a high accuracy score to be considered reliable.  
 
-## Confusion Matrices: 
+### Confusion Matrices: 
 These provide a detailed breakdown of correct and incorrect predictions (True Positives, False Negatives, etc.), revealing where a model is prone to error.  
 
-## Cross-Validation: 
+### Cross-Validation: 
 To ensure an application is robust, it is tested across multiple "folds" of data to ensure the performance is consistent and not a result of a lucky data split
