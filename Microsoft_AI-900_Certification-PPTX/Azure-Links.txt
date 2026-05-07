@@ -1,0 +1,8 @@
+https://portal.azure.com/?Microsoft_Azure_Education_correlationId=ce8437d4-dae2-475d-bad4-51ba49ae4d8c&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=bb8987e7-8c64-4b20-b70e-e223caed2dba#view/Microsoft_Azure_Education/EducationMenuBlade/~/overview
+
+https://portal.azure.com/
+
+https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/3-language-models?pivots=video
+
+
+
